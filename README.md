@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil no GitHub
 
-Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e ciência de dados. Tenho experiência sólida em Python, Node.js e Análise de Dados, e adoro criar soluções inovadoras para problemas complexos. Este espaço no GitHub é onde compartilho meus projetos, colaborações e ideias. Sinta-se à vontade para explorar e se conectar!
+Olá! Eu sou Henry Magalhães, um desenvolvedor apaixonado por tecnologia e ciência de dados. Tenho experiência sólida em Python, Node.js e Análise de Dados, e adoro criar soluções inovadoras para problemas complexos. Este espaço no GitHub é onde compartilho meus projetos, colaborações e ideias. Sinta-se à vontade para explorar e se conectar!
 
 ## Habilidades Principais
 
@@ -21,7 +21,7 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e ciência d
 
 ## Projetos Destacados
 
-### [Sistema de Análise de Mutações Genéticas](https://github.com/seuusuario/sistema-analise-mutacao-genetica)](https://github.com/Henry-AF/Software-Web)
+### [Sistema de Análise de Mutações Genéticas](https://github.com/Henry-AF/Software-Web)
 Desenvolvi um sistema para analisar mutações no gene PKD1, ajudando na detecção precoce da Doença Renal Policística. Utiliza Python para processamento de dados e Flask para a interface web.
 
 ### [IA Consultor Financeiro](https://github.com/Henry-AF/consultor-financeiro-python)
