@@ -41,7 +41,7 @@
 
 | Projeto | Descrição |
 |--------|-----------|
-| 🧬 **Análise de Mutações Genéticas** | Sistema em Python + Flask para identificar mutações no gene PKD1 (Doença Renal Policística). |
+| 🧬 **Análise de Mutações Genéticas** | Sistema em Python + NodeJS para identificar mutações no gene PKD1 (Doença Renal Policística). |
 | 🤖 **IA Consultor Financeiro** | Assistente de finanças com machine learning para análise e sugestão de decisões. |
 | 📈 **Dashboard de Clientes** | Painel de vendas interativo com Streamlit e Python, simulando uma empresa real. |
 
