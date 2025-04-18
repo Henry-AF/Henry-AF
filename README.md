@@ -1,5 +1,5 @@
-<h1 align="center">👋 Olá! Eu sou o Henry Magalhães</h1>
-<p align="center">Desenvolvedor focado em soluções com Python, Node.js e Ciência de Dados 🧠🚀</p>
+<h1 align="center">Henry Magalhães</h1>
+<p align="center">Desenvolvedor focado em soluções com Python, Node.js e Ciência de Dados</p>
 
 --- 
 
